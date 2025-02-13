@@ -39,9 +39,9 @@ POST https://nxapi-mongodbcarlos.vercel.app/api/products HTTP/1.1
 content-type: application/json
 
 { 
-    "marca": "gibson", 
-    "precio": 2000,
-    "foto": "https://res.cloudinary.com/meigemn/image/upload/v1739477239/DSXE00CWCH1_front_dzaudo.png"
+    "marca": "Jackson", 
+    "precio": 4000,
+    "foto": "https://res.cloudinary.com/meigemn/image/upload/v1739475926/2288-C_Jackson_Custom_Shop_Randy_Rhoads_Pinstripe_with_Concorde_Features_U20926_2_grande_iikn2i.jpg"
 }
 
 ###  ya adaptado a jackson
