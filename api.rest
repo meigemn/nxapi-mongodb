@@ -29,13 +29,13 @@ DELETE http://localhost:3000/api/products/67ae4b4385db8bb906217686 HTTP/1.1
 content-type: application/json
 
 ###
-###Ya adaptado a ibanez
-DELETE https://nxapi-mongodb.vercel.app/api/products/67ae4c9a85db8bb90621768a HTTP/1.1
+###Ya adaptado a ibanez--no funciona
+DELETE https://nxapi-mongodbcarlos.vercel.app/api/products/67ae4c9a85db8bb90621768a HTTP/1.1
 content-type: application/json
 
 ### 
 ### ya adaptado jackson
-POST https://nxapi-mongodb.vercel.app/api/products HTTP/1.1
+POST https://nxapi-mongodbcarlos.vercel.app/api/products HTTP/1.1
 content-type: application/json
 
 { 
@@ -46,5 +46,5 @@ content-type: application/json
 
 ###  ya adaptado a jackson
 
-DELETE https://nxapi-mongodb.vercel.app/api/products/67ae4b4385db8bb906217686
+DELETE https://nxapi-mongodbcarlos.vercel.app/api/products/67ae4c9a85db8bb90621768a HTTP/1.1
 content-type: application/json
