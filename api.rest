@@ -8,12 +8,12 @@ content-type: application/json
 
 ###
 
-GET http://localhost:3000/api/products/6544f16661269657e5324e80 HTTP/1.1
+GET https://nxapi-mongodbc.vercel.app/api/products/6544f16661269657e5324e80 HTTP/1.1
 content-type: application/json
 
 ###
 
-PUT http://localhost:3000/api/products/67ae4cbc85db8bb90621768b HTTP/1.1
+PUT https://nxapi-mongodbc.vercel.app/api/products/67ae4cbc85db8bb90621768b HTTP/1.1
 content-type: application/json
 
 { 
@@ -25,17 +25,17 @@ content-type: application/json
 
 ###
 ###Ya adaptado a jackson
-DELETE http://localhost:3000/api/products/67ae4b4385db8bb906217686 HTTP/1.1 
+DELETE https://nxapi-mongodbc.vercel.app/api/products/67ae4b4385db8bb906217686 HTTP/1.1 
 content-type: application/json
 
 ###
 ###Ya adaptado a ibanez--no funciona
-DELETE https://nxapi-mongodbcarlos.vercel.app/api/products/67ae4c9a85db8bb90621768a HTTP/1.1
+DELETE https://nxapi-mongodbc.vercel.app/api/products/67ae4c9a85db8bb90621768a HTTP/1.1
 content-type: application/json
 
 ### 
 ### ya adaptado jackson
-POST https://nxapi-mongodbcarlos.vercel.app/api/products HTTP/1.1
+POST https://nxapi-mongodbc.vercel.app/api/products HTTP/1.1
 content-type: application/json
 
 { 
@@ -46,5 +46,5 @@ content-type: application/json
 
 ###  ya adaptado a jackson
 
-DELETE https://nxapi-mongodbcarlos.vercel.app/api/products/67ae4c9a85db8bb90621768a HTTP/1.1
+DELETE https://nxapi-mongodbc.vercel.app/api/products/67ae4c9a85db8bb90621768a HTTP/1.1
 content-type: application/json
